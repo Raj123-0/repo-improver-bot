@@ -339,6 +339,15 @@
     "pr_history": [],
     "stages_completed": []
   },
+  "flatbyte-compiler": {
+    "description": "Zero-copy binary serialization compiler targeting a stack-based VM with graph-coloring register allocation",
+    "domain": "systems_compilers",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
+  },
   "havn": {
     "domain": "general_python",
     "improvements_count": 0,
