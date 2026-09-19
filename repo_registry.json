@@ -332,6 +332,15 @@
     "pr_history": [],
     "stages_completed": []
   },
+  "crypto-prim": {
+    "description": "A comprehensive library for Shamir secret sharing, Schnorr ZK proofs, Wesolowski VDFs, Merkle Mountain Ranges, and lattice cryptography.",
+    "domain": "crypto_algorithms",
+    "improvements_count": 0,
+    "language": "Python",
+    "last_improved_at": null,
+    "pr_history": [],
+    "stages_completed": []
+  },
   "dev-toolkit": {
     "domain": "general_python",
     "improvements_count": 0,
